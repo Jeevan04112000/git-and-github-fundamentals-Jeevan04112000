@@ -105,3 +105,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+--------------------------------------------------------------------------------------------------------------------------------------
+Hi this is Jeevan Sreeram Reddy Yakasiri ...I am glad to take database subject in my first sem and looking forward to learn more from the professor.
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.i am super exited about the course .
